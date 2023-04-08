@@ -1,4 +1,4 @@
-# Decoder
+# Enumerable
 <a name="readme-top"></a>
 
 <!-- TABLE OF CONTENTS -->
@@ -18,7 +18,7 @@
 
 # 📖 Enumerable<a name="about-project"></a>
 
-**Enumerable** 
+**Enumerable** Used to demonstrate using modules inside of classes and how to implement Enumerable methods.
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
