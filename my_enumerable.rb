@@ -1,6 +1,6 @@
 module MyEnumerable
   def all?
-    my_each { |item| return false unless yield(item) }
+    my_each { |x| return false unless yield(x) }
     true
   end
 
